@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Raihan and I'm a DEV, from Indonesia</h2>
+<h2 align="left">Hi 👋! My name is Raihan and I'm a DEV, from Indonesia,Vibe Coder</h2>
 
 ###
 
@@ -57,7 +57,7 @@
 ###
 
 # 💫 About Me:
-👨‍💻 SMKN 13 Bandung | RPL student | Py, TS, JS dev | IoT lover (Arduino, ESP32) | Perfeksionis ✨ | Kobo Kanaeru simp<br>
+👨‍💻 SMKN 13 Bandung | RPL student | Vibe Coder | Py, TS, JS dev | IoT lover (Arduino, ESP32) | Perfeksionis ✨ | Kobo Kanaeru simp<br>
 
 
 ## 🌐 Socials:
